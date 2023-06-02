@@ -10,7 +10,7 @@ blueprint:
     [Hooks available for this controller](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e1812#available-hooks)
     for additional details.\n\n\U0001F4D5 Full documentation regarding this blueprint
     is available [here](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e1812).\n\n\U0001F680
-    This blueprint is a fork of the **[Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints)
+    This blueprint is a fork (by Mike) of the **[Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints)
     project**.\n\nℹ️ Version 2023.06.02\n"
   source_url: https://github.com/ludditus-RPI/blueprints/blob/main/ikea-e1812_mod.yaml
   domain: automation
