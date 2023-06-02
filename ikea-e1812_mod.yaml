@@ -76,6 +76,7 @@ blueprint:
       description: Action to run on double button press code 2004.
       default: []
       selector:
+        action: {}
     action_button_double:
       name: (Optional) Button double press
       description: Action to run on virtual double button press.
